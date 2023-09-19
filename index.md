@@ -5,3 +5,7 @@
 ##### ok bye
 
 ![an image of a very tiny plushie version of nagito komaeda from super danganronpa 2: goodbye despair](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVuw3OUqvcrSKZWn02T-3tOwSfh9DsY_LoLkRqqSiotaODqD74WczIGyQKEqfst_psec:https://ae01.alicdn.com/kf/H161ce136b186401db141f98ac2228535Y.jpg&usqp=CAU)
+
+``` javascript
+var myVar = "I like men romantically and I am also a man";
+```
