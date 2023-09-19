@@ -9,3 +9,7 @@
 ``` javascript
 var myVar = "I like men romantically and I am also a man";
 ```
+
+- [x] learn all the markdown stuff from rentry
+- [x] be gay
+- [ ] be straight
